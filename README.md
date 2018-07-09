@@ -15,10 +15,9 @@ from all the 3 sources and paste them in the corresponding folder.
 
 Your file structure should look like this 
 
-data/
-     melanoma/....(all images)
-     nevus/...(all images)
-     seborrheic_keratosis/...(all images )
+data/ melanoma/....(all images)
+data/nevus/...(all images)
+data/seborrheic_keratosis/...(all images )
 main.py
 model.py
 ...
