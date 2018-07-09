@@ -16,11 +16,17 @@ from all the 3 sources and paste them in the corresponding folder.
 Your file structure should look like this 
 
 data/ melanoma/....(all images)
+
 data/nevus/...(all images)
+
 data/seborrheic_keratosis/...(all images )
+
 main.py
+
 model.py
+
 ...
+
 
 
 The work is inspired from the paper (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0ahUKEwiN_ZXv5pLcAhVLWH0KHdLsAiIQFggwMAI&url=http%3A%2F%2Fwww.ijarcs.info%2Findex.php%2FIjarcs%2Farticle%2Fdownload%2F2402%2F2390&usg=AOvVaw0atO-ES9ECwhFj_pSOtv_p)
